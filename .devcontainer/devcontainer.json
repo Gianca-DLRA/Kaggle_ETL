@@ -33,7 +33,7 @@
 			]
 		}
 	},
-	"postCreateCommand":" git config --global user.name uumami && git config --global user.email vazcorm@gmail.com"
+	"postCreateCommand":" git config --global user.name Gianca-DLRA && git config --global user.email giancarlo.dlra@gmail.com"
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
